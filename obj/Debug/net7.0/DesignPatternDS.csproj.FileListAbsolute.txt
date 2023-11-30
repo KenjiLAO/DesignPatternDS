@@ -1,0 +1,15 @@
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.csproj.AssemblyReference.cache
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.AssemblyInfoInputs.cache
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.AssemblyInfo.cs
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.csproj.CoreCompileInputs.cache
+C:\Users\theye\DesignPatternDS\bin\Debug\net7.0\DesignPatternDS.exe
+C:\Users\theye\DesignPatternDS\bin\Debug\net7.0\DesignPatternDS.deps.json
+C:\Users\theye\DesignPatternDS\bin\Debug\net7.0\DesignPatternDS.runtimeconfig.json
+C:\Users\theye\DesignPatternDS\bin\Debug\net7.0\DesignPatternDS.dll
+C:\Users\theye\DesignPatternDS\bin\Debug\net7.0\DesignPatternDS.pdb
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.dll
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\refint\DesignPatternDS.dll
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.pdb
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\DesignPatternDS.genruntimeconfig.cache
+C:\Users\theye\DesignPatternDS\obj\Debug\net7.0\ref\DesignPatternDS.dll
