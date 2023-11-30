@@ -1,0 +1,5 @@
+Ce code permet de créer des formes ( cercle, triangle, carré) et d'y ajouter la couleur rouge avec RedShapeD.
+
+Le design pattern qui est semblé utilisé est le Decorator.
+
+Le code semble correcte 
